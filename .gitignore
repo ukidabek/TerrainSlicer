@@ -1,0 +1,26 @@
+/Library
+/ProjectSettings
+/Temp
+
+UnityVS.meta
+
+UnityVS
+
+/Chasmodex.v12.suo
+/Chasmodex.CSharp.csproj
+/Chasmodex.sln
+/.vs/Chasmodex/v14/*.suo
+/*.csproj
+/Assets/Logic/Input/Values/*.meta
+/obj/Debug/*.txt
+/obj/Debug/*.cache
+/obj/Debug/*.dll
+/obj/Debug/*.pdb
+/*.suo
+/*.sln
+/Assets/Tes.cs
+/Assets/Tes.cs.meta
+/.vs/Cave Simulator/v14/*.suo
+/.vs/MagicFPS/v14/*.suo
+/*.userprefs
+*.meta
